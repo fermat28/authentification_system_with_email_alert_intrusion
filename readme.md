@@ -1,0 +1,2 @@
+The following program register and login user by asking login and password and if after 5 attemps the user is not logged the program self-lock for 24h and alert the user by email notification that it was an attempt of intrusion on his account
+if the user succeed the authentification the program ask for the file name to crypt
